@@ -10,18 +10,14 @@ credits: true
 
 {% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
 
-{% include feature/nav-menu.html sections="About the Collection;About the About Page" %}
+{% include feature/nav-menu.html sections="About the Collection"; "About the Collection Creator" %}
 
 ## About the Collection
 
-This site is generated using [CollectionBuilder-GH](https://collectionbuilding.github.io/gh/), a project to create a free and simple digital collection using [GitHub Pages](https://pages.github.com/) from: 
+All The Ways of Little Red is a collection of retellings of the classic fairytale "Little Red Riding Hood." This collection includes materials published between 1712 and 2022 to explore how this classic story has developed over the centuries. 
 
-- a CSV of collection metadata
-- a folder of JPG images or PDF documents
+The materials for this collection came from the Lilly Library at Indiana University Bloomington and the Monroe County Public Library. Images were taken of these materials before returning them to the owning institution. 
 
-The template repository features four objects from the University of Idaho Library's [Digital Collections](https://www.lib.uidaho.edu/digital). 
+## About the Collection Creator
 
-For full details of creating your own collection site, visit [CollectionBuilder Documentation](https://collectionbuilder.github.io/cb-docs/)!
-
-<!-- IMPORTANT!!! DELETE this comment and the include below when you are finished editing this page for your collection. The include below introduces about page features. They will show up on your collection's about page until you delete it.  -->
-{% include cb/about_the_about.md %} 
+Danielle Tate is a Graduate Student at Indiana University Bloomington who is currently studying Library Science with a focus on Children and Youth Services. This is her final year of graduate school and will graduate in May. Before graduate school, Danielle attended Indiana University Bloomington for and undergraduate degree in English with a minor in Comparative Literature. 
