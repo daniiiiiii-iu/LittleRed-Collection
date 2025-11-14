@@ -8,15 +8,17 @@ credits: true
 # Look in _includes/feature for options to easily add features to the page
 ---
 
-{% include feature/jumbotron.html objectid="https://cdil.lib.uidaho.edu/images/palouse_sm.jpg" %}
+{% include feature/jumbotron.html objectid= "assets/img/littleredbanner.jpeg" %}
 
 {% include feature/nav-menu.html sections="About the Collection" %}
 
 ## About the Collection
 
-All The Ways of Little Red is a collection of retellings of the classic fairytale "Little Red Riding Hood." This collection includes materials published between 1712 and 2022 to explore how this classic story has developed over the centuries. 
+All The Ways of Little Red is a collection of retellings of the classic fairytale "Little Red Riding Hood." This collection includes materials published between 1712 and 2022 to explore how this classic story has developed over the centuries. It was decided to only handle materials written in English due to the constraints of language knowledge of the collection creator. 
 
 The materials for this collection came from the Lilly Library at Indiana University Bloomington and the Monroe County Public Library. Images were taken of these materials before returning them to the owning institution. 
+
+Also provided is a bried history of Little Red Riding Hood, exploring its origin points and inspiration.
 
 ## About the Collection Creator
 
