@@ -6,3 +6,5 @@ permalink: /timeline.html
 ---
 
 ## Collection Timeline
+
+This timeline is built off of the publication dates for the books within the collection.
